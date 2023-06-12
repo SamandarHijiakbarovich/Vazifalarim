@@ -5,6 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Vazifa7.Domain;
+using Vazifa7.Domain.Enum;
 using Vazifa7.Domain.Enums;
 using Vazifa7.Service;
 
@@ -18,6 +19,22 @@ namespace Vazifa7.UI
         {
             kompyuterService = new KompyuterService();
         }
+
+
+        public void SetLaptop(string name, string brandname, decimal price,
+            ELaptopType eLaptopType, CPU cpu, GPU gpu, Disc disc, Ram ram)
+        {
+            Console.WriteLine("laptop name the in enter");
+            name = Console.ReadLine();
+            Console.WriteLine("Laptop brand name the in enter");
+            brandname = Console.ReadLine();
+            Console.WriteLine("enter the price");
+            price = decimal.Parse(Console.ReadLine());
+         
+            
+        }
+
+        
 
         /// <summary>
         /// Bu method CPU ning ma'lumotlarini qabul qiladi
@@ -119,6 +136,31 @@ namespace Vazifa7.UI
             price = decimal.Parse(Console.ReadLine());
 
             kompyuterService.GetRam(name, brandname, size, ramoftype, price);
+        }
+
+        internal void SetCPU()
+        {
+            throw new NotImplementedException();
+        }
+
+        internal void SetGPU()
+        {
+            throw new NotImplementedException();
+        }
+
+        internal void SetLaptop()
+        {
+            throw new NotImplementedException();
+        }
+
+        internal void SetDisc()
+        {
+            throw new NotImplementedException();
+        }
+
+        internal void SetRam()
+        {
+            throw new NotImplementedException();
         }
     }
 }

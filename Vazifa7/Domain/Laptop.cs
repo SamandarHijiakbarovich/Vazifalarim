@@ -16,6 +16,9 @@ namespace Vazifa7.Domain
         public ELaptopType Type { get; set; } = ELaptopType.Gaming;
         public CPU CPU { get; set; }
         public GPU GPU { get; set; }
+        public Disc Disc { get; set; }
+        public Ram Ram { get; set; }
+
 
         public Laptop()
         {

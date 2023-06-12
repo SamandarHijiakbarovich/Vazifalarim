@@ -1,0 +1,15 @@
+D:\Vazifalar\HomeWork\Vazifa7\bin\Debug\net7.0\Vazifa7.exe
+D:\Vazifalar\HomeWork\Vazifa7\bin\Debug\net7.0\Vazifa7.deps.json
+D:\Vazifalar\HomeWork\Vazifa7\bin\Debug\net7.0\Vazifa7.runtimeconfig.json
+D:\Vazifalar\HomeWork\Vazifa7\bin\Debug\net7.0\Vazifa7.dll
+D:\Vazifalar\HomeWork\Vazifa7\bin\Debug\net7.0\Vazifa7.pdb
+D:\Vazifalar\HomeWork\Vazifa7\obj\Debug\net7.0\Vazifa7.csproj.AssemblyReference.cache
+D:\Vazifalar\HomeWork\Vazifa7\obj\Debug\net7.0\Vazifa7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vazifalar\HomeWork\Vazifa7\obj\Debug\net7.0\Vazifa7.AssemblyInfoInputs.cache
+D:\Vazifalar\HomeWork\Vazifa7\obj\Debug\net7.0\Vazifa7.AssemblyInfo.cs
+D:\Vazifalar\HomeWork\Vazifa7\obj\Debug\net7.0\Vazifa7.csproj.CoreCompileInputs.cache
+D:\Vazifalar\HomeWork\Vazifa7\obj\Debug\net7.0\Vazifa7.dll
+D:\Vazifalar\HomeWork\Vazifa7\obj\Debug\net7.0\refint\Vazifa7.dll
+D:\Vazifalar\HomeWork\Vazifa7\obj\Debug\net7.0\Vazifa7.pdb
+D:\Vazifalar\HomeWork\Vazifa7\obj\Debug\net7.0\Vazifa7.genruntimeconfig.cache
+D:\Vazifalar\HomeWork\Vazifa7\obj\Debug\net7.0\ref\Vazifa7.dll

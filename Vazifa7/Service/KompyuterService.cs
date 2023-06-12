@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Vazifa7.Domain;
+using Vazifa7.Domain.Enum;
 using Vazifa7.Domain.Enums;
 
 namespace Vazifa7.Service
@@ -29,6 +30,33 @@ namespace Vazifa7.Service
             GPU = new GPU();
             Disc = new Disc();
             Ram = new Ram();
+        }
+
+        /// <summary>
+        /// Laptop ma'lumotlarini qaytaradi
+        /// </summary>
+        /// <param name="name"></param>
+        /// <param name="brandname"></param>
+        /// <param name="price"></param>
+        /// <param name="eLaptopType"></param>
+        /// <param name="cpu"></param>
+        /// <param name="gpu"></param>
+        /// <param name="disc"></param>
+        /// <param name="ram"></param>
+        /// <returns></returns>
+        public Laptop GetLaptop(string name,string brandname,decimal price,
+            ELaptopType eLaptopType,CPU cpu,GPU gpu,Disc disc,Ram ram)
+        {
+            Laptop.Name = name;
+            Laptop.BrandName = brandname;
+            Laptop.Price = price;
+            Laptop.Type = eLaptopType;
+            Laptop.CPU = cpu;
+            Laptop.GPU = gpu;
+            Laptop.Disc = disc;
+            Laptop.Ram = ram;
+            return Laptop;
+
         }
 
 

@@ -1,10 +1,13 @@
-﻿namespace Vazifa7
+﻿using Vazifa7.UI;
+
+namespace Vazifa7
 {
     internal class Program
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine();
+            DisplayView display = new DisplayView();
+            display.start();
         }
     }
 }
