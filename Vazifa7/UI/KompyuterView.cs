@@ -21,8 +21,8 @@ namespace Vazifa7.UI
         }
 
 
-        public void SetLaptop(string name, string brandname, decimal price,
-            ELaptopType eLaptopType, CPU cpu, GPU gpu, Disc disc, Ram ram)
+        public void SetLaptop(string? name, string? brandname, decimal price,
+            ELaptopType eLaptopType, CPU? cpu, GPU? gpu, Disc? disc, Ram? ram)
         {
             Console.WriteLine("laptop name the in enter");
             name = Console.ReadLine();
@@ -43,7 +43,7 @@ namespace Vazifa7.UI
         /// <param name="brandname"></param>
         /// <param name="price"></param>
         /// <param name="yadrocount"></param>
-        public void SetCPU(string name,string brandname,decimal price,int yadrocount)
+        public void SetCPU(string? name,string? brandname,decimal price,int yadrocount)
         {
             Console.WriteLine("Enter the name of the CPU");
             name = Console.ReadLine();
@@ -65,8 +65,8 @@ namespace Vazifa7.UI
         /// <param name="brandname"></param>
         /// <param name="price"></param>
         /// <param name="e_GpuOfType"></param>
-        public void SetGPU(string name,
-            string brandname,decimal price,
+        public void SetGPU(string? name,
+            string? brandname,decimal price,
             E_GpuOfType e_GpuOfType)
         {
             Console.WriteLine("Enter the name of the GPU");
@@ -91,7 +91,7 @@ namespace Vazifa7.UI
         /// <param name="price"></param>
         /// <param name="memorysize"></param>
         /// <param name="discOfType"></param>
-        public void SetDisc(string name, string brandname, decimal price,
+        public void SetDisc(string? name, string? brandname, decimal price,
             int memorysize, EDiscOfType discOfType)
         {
             Console.WriteLine("Enter the name of the Disc");
@@ -120,7 +120,7 @@ namespace Vazifa7.UI
         /// <param name="size"></param>
         /// <param name="ramoftype"></param>
         /// <param name="price"></param>
-        public void SetRam(string name, string brandname, int size,
+        public void SetRam(string? name, string? brandname, int size,
             E_RamOfType ramoftype,
             decimal price)
         {

@@ -1,0 +1,15 @@
+D:\Vazifalar\HomeWork\Delegats\bin\Debug\net7.0\Delegats.exe
+D:\Vazifalar\HomeWork\Delegats\bin\Debug\net7.0\Delegats.deps.json
+D:\Vazifalar\HomeWork\Delegats\bin\Debug\net7.0\Delegats.runtimeconfig.json
+D:\Vazifalar\HomeWork\Delegats\bin\Debug\net7.0\Delegats.dll
+D:\Vazifalar\HomeWork\Delegats\bin\Debug\net7.0\Delegats.pdb
+D:\Vazifalar\HomeWork\Delegats\obj\Debug\net7.0\Delegats.csproj.AssemblyReference.cache
+D:\Vazifalar\HomeWork\Delegats\obj\Debug\net7.0\Delegats.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vazifalar\HomeWork\Delegats\obj\Debug\net7.0\Delegats.AssemblyInfoInputs.cache
+D:\Vazifalar\HomeWork\Delegats\obj\Debug\net7.0\Delegats.AssemblyInfo.cs
+D:\Vazifalar\HomeWork\Delegats\obj\Debug\net7.0\Delegats.csproj.CoreCompileInputs.cache
+D:\Vazifalar\HomeWork\Delegats\obj\Debug\net7.0\Delegats.dll
+D:\Vazifalar\HomeWork\Delegats\obj\Debug\net7.0\refint\Delegats.dll
+D:\Vazifalar\HomeWork\Delegats\obj\Debug\net7.0\Delegats.pdb
+D:\Vazifalar\HomeWork\Delegats\obj\Debug\net7.0\Delegats.genruntimeconfig.cache
+D:\Vazifalar\HomeWork\Delegats\obj\Debug\net7.0\ref\Delegats.dll

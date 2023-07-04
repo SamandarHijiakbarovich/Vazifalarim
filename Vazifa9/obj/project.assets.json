@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\Samandar\\.nuget\\packages\\": {},
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vazifalar\\HomeWork\\Vazifa8\\Vazifa8.csproj",
-      "projectName": "Vazifa8",
-      "projectPath": "D:\\Vazifalar\\HomeWork\\Vazifa8\\Vazifa8.csproj",
+      "projectUniqueName": "D:\\Vazifalar\\HomeWork\\Vazifa9\\Vazifa9.csproj",
+      "projectName": "Vazifa9",
+      "projectPath": "D:\\Vazifalar\\HomeWork\\Vazifa9\\Vazifa9.csproj",
       "packagesPath": "C:\\Users\\Samandar\\.nuget\\packages\\",
-      "outputPath": "D:\\Vazifalar\\HomeWork\\Vazifa8\\obj\\",
+      "outputPath": "D:\\Vazifalar\\HomeWork\\Vazifa9\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -29,7 +29,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -37,8 +37,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -49,8 +49,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",
