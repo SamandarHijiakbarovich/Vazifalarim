@@ -1,0 +1,15 @@
+D:\Vazifalar\HomeWork\Linq_Asoslari\bin\Debug\net7.0\Linq_Asoslari.exe
+D:\Vazifalar\HomeWork\Linq_Asoslari\bin\Debug\net7.0\Linq_Asoslari.deps.json
+D:\Vazifalar\HomeWork\Linq_Asoslari\bin\Debug\net7.0\Linq_Asoslari.runtimeconfig.json
+D:\Vazifalar\HomeWork\Linq_Asoslari\bin\Debug\net7.0\Linq_Asoslari.dll
+D:\Vazifalar\HomeWork\Linq_Asoslari\bin\Debug\net7.0\Linq_Asoslari.pdb
+D:\Vazifalar\HomeWork\Linq_Asoslari\obj\Debug\net7.0\Linq_Asoslari.csproj.AssemblyReference.cache
+D:\Vazifalar\HomeWork\Linq_Asoslari\obj\Debug\net7.0\Linq_Asoslari.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vazifalar\HomeWork\Linq_Asoslari\obj\Debug\net7.0\Linq_Asoslari.AssemblyInfoInputs.cache
+D:\Vazifalar\HomeWork\Linq_Asoslari\obj\Debug\net7.0\Linq_Asoslari.AssemblyInfo.cs
+D:\Vazifalar\HomeWork\Linq_Asoslari\obj\Debug\net7.0\Linq_Asoslari.csproj.CoreCompileInputs.cache
+D:\Vazifalar\HomeWork\Linq_Asoslari\obj\Debug\net7.0\Linq_Asoslari.dll
+D:\Vazifalar\HomeWork\Linq_Asoslari\obj\Debug\net7.0\refint\Linq_Asoslari.dll
+D:\Vazifalar\HomeWork\Linq_Asoslari\obj\Debug\net7.0\Linq_Asoslari.pdb
+D:\Vazifalar\HomeWork\Linq_Asoslari\obj\Debug\net7.0\Linq_Asoslari.genruntimeconfig.cache
+D:\Vazifalar\HomeWork\Linq_Asoslari\obj\Debug\net7.0\ref\Linq_Asoslari.dll
