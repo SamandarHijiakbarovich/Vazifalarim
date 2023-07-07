@@ -1,0 +1,15 @@
+D:\Vazifalar\HomeWork\Tuple_example\bin\Debug\net7.0\Tuple_example.exe
+D:\Vazifalar\HomeWork\Tuple_example\bin\Debug\net7.0\Tuple_example.deps.json
+D:\Vazifalar\HomeWork\Tuple_example\bin\Debug\net7.0\Tuple_example.runtimeconfig.json
+D:\Vazifalar\HomeWork\Tuple_example\bin\Debug\net7.0\Tuple_example.dll
+D:\Vazifalar\HomeWork\Tuple_example\bin\Debug\net7.0\Tuple_example.pdb
+D:\Vazifalar\HomeWork\Tuple_example\obj\Debug\net7.0\Tuple_example.csproj.AssemblyReference.cache
+D:\Vazifalar\HomeWork\Tuple_example\obj\Debug\net7.0\Tuple_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vazifalar\HomeWork\Tuple_example\obj\Debug\net7.0\Tuple_example.AssemblyInfoInputs.cache
+D:\Vazifalar\HomeWork\Tuple_example\obj\Debug\net7.0\Tuple_example.AssemblyInfo.cs
+D:\Vazifalar\HomeWork\Tuple_example\obj\Debug\net7.0\Tuple_example.csproj.CoreCompileInputs.cache
+D:\Vazifalar\HomeWork\Tuple_example\obj\Debug\net7.0\Tuple_example.dll
+D:\Vazifalar\HomeWork\Tuple_example\obj\Debug\net7.0\refint\Tuple_example.dll
+D:\Vazifalar\HomeWork\Tuple_example\obj\Debug\net7.0\Tuple_example.pdb
+D:\Vazifalar\HomeWork\Tuple_example\obj\Debug\net7.0\Tuple_example.genruntimeconfig.cache
+D:\Vazifalar\HomeWork\Tuple_example\obj\Debug\net7.0\ref\Tuple_example.dll

@@ -1,0 +1,15 @@
+D:\Vazifalar\HomeWork\Events\obj\Debug\net7.0\Events.csproj.AssemblyReference.cache
+D:\Vazifalar\HomeWork\Events\obj\Debug\net7.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vazifalar\HomeWork\Events\obj\Debug\net7.0\Events.AssemblyInfoInputs.cache
+D:\Vazifalar\HomeWork\Events\obj\Debug\net7.0\Events.AssemblyInfo.cs
+D:\Vazifalar\HomeWork\Events\obj\Debug\net7.0\Events.csproj.CoreCompileInputs.cache
+D:\Vazifalar\HomeWork\Events\bin\Debug\net7.0\Events.exe
+D:\Vazifalar\HomeWork\Events\bin\Debug\net7.0\Events.deps.json
+D:\Vazifalar\HomeWork\Events\bin\Debug\net7.0\Events.runtimeconfig.json
+D:\Vazifalar\HomeWork\Events\bin\Debug\net7.0\Events.dll
+D:\Vazifalar\HomeWork\Events\bin\Debug\net7.0\Events.pdb
+D:\Vazifalar\HomeWork\Events\obj\Debug\net7.0\Events.dll
+D:\Vazifalar\HomeWork\Events\obj\Debug\net7.0\refint\Events.dll
+D:\Vazifalar\HomeWork\Events\obj\Debug\net7.0\Events.pdb
+D:\Vazifalar\HomeWork\Events\obj\Debug\net7.0\Events.genruntimeconfig.cache
+D:\Vazifalar\HomeWork\Events\obj\Debug\net7.0\ref\Events.dll

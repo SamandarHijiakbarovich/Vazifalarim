@@ -5,6 +5,11 @@ internal class Program
 {
     static void Main(string[] args)
     {
+        (int, double) tuple1 = (2, 4.3);
+
+        Console.WriteLine($"tuple eleementlari {tuple1.Item1},{tuple1.Item2}");
+
+
         Printdelegate printdelegate = PrintMessage;
         printdelegate("SAlom Samandar");
 

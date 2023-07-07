@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Tuple_example"
   ],
-  "SelectedNode": "\\HomeWork.sln",
+  "SelectedNode": "\\Tuple_example\\Tuple_example.csproj",
   "PreviewInSolutionExplorer": false
 }
