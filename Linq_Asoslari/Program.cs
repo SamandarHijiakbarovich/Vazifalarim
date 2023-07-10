@@ -16,7 +16,7 @@ IList<Car> cars = new List<Car>()
 {
     new Car(){Id=1,Marka="Chevrolet",Model="nexia 1",Color="qora"},
     new Car(){Id=2,Marka="Chevrolet",Model="matiz",Color="qizil"},
-    new Car(){Id=3,Marka="Chevrolet",Model="spark",Color="sariq"},
+    //new Car(){Id=3,Marka="Chevrolet",Model="spark",Color="sariq"},
     new Car(){Id=4,Marka="Chevrolet",Model="malibu",Color="oq"},
     new Car(){Id=5,Marka="Chevrolet",Model="nexia 2",Color="kul rang"},
     new Car(){Id=6,Marka="Chevrolet",Model="nexia 3",Color="pushti"},
@@ -111,6 +111,54 @@ IList<Car> cars = new List<Car>()
 //    foreach (var stud in item.Students)
 //        Console.WriteLine(stud.StudentName);
 //}
+
+
+//All methodi barcha elementlar belgilangan shartga javob berishini tekshiradi
+
+/*
+var result = users.All(x => x.Id >= 1).ToString();
+Console.WriteLine(result);
+*/
+
+
+
+// Any methodi hech bo'lmaganda bitta elament shartga javob berishini tekshiradi
+
+//var result = users.Any(x => x.Id == 1).ToString();
+//Console.WriteLine(result);
+
+
+
+//Contains methodi to'plamda element mavjud yoki yo'qligini tekshiradi 
+
+
+
+//Count bu to'plam elementlari sonini qaytaradi
+//var result = users.Count();
+//Console.WriteLine(result);
+
+// Sum methodi masalan userning pullari bor va barcha pulla summasini topish kerak bo'lsa shu methoddan foydalanamiz
+//var result = users.Sum(x => x.Id);
+//Console.WriteLine(result);
+
+
+//Min 
+//var result = cars.Min(x => x.Id);
+//Console.WriteLine(result);
+
+// max 
+//var result = cars.Max(x => x.Id);
+//Console.WriteLine(result);
+
+
+//Average methodi bu moshinalar Id si bo'lsa Id larning o'rtachasini hisoblab qaytaradi
+var result = cars.Average(x => x.Id);
+Console.WriteLine(result);
+
+
+
+
+
 
 
 
