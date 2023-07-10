@@ -12,7 +12,7 @@ namespace Linq_Asoslari.Models
         public string FirstName { get; set; }
         public string LastName{ get; set; }
         public int Age { get; set; }
-        public int CarId { get; set; }
+        public string CarId { get; set; }
         public string PhonNumber { get; set; }
 
         public bool Equals(User user1,User user2)
