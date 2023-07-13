@@ -1,0 +1,15 @@
+D:\Vazifalar\HomeWork\Tasks\bin\Debug\net6.0\Tasks.exe
+D:\Vazifalar\HomeWork\Tasks\bin\Debug\net6.0\Tasks.deps.json
+D:\Vazifalar\HomeWork\Tasks\bin\Debug\net6.0\Tasks.runtimeconfig.json
+D:\Vazifalar\HomeWork\Tasks\bin\Debug\net6.0\Tasks.dll
+D:\Vazifalar\HomeWork\Tasks\bin\Debug\net6.0\Tasks.pdb
+D:\Vazifalar\HomeWork\Tasks\obj\Debug\net6.0\Tasks.csproj.AssemblyReference.cache
+D:\Vazifalar\HomeWork\Tasks\obj\Debug\net6.0\Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vazifalar\HomeWork\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfoInputs.cache
+D:\Vazifalar\HomeWork\Tasks\obj\Debug\net6.0\Tasks.AssemblyInfo.cs
+D:\Vazifalar\HomeWork\Tasks\obj\Debug\net6.0\Tasks.csproj.CoreCompileInputs.cache
+D:\Vazifalar\HomeWork\Tasks\obj\Debug\net6.0\Tasks.dll
+D:\Vazifalar\HomeWork\Tasks\obj\Debug\net6.0\refint\Tasks.dll
+D:\Vazifalar\HomeWork\Tasks\obj\Debug\net6.0\Tasks.pdb
+D:\Vazifalar\HomeWork\Tasks\obj\Debug\net6.0\Tasks.genruntimeconfig.cache
+D:\Vazifalar\HomeWork\Tasks\obj\Debug\net6.0\ref\Tasks.dll

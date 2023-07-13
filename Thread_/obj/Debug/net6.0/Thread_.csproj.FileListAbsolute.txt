@@ -1,0 +1,15 @@
+D:\Vazifalar\HomeWork\Thread_\bin\Debug\net6.0\Thread_.exe
+D:\Vazifalar\HomeWork\Thread_\bin\Debug\net6.0\Thread_.deps.json
+D:\Vazifalar\HomeWork\Thread_\bin\Debug\net6.0\Thread_.runtimeconfig.json
+D:\Vazifalar\HomeWork\Thread_\bin\Debug\net6.0\Thread_.dll
+D:\Vazifalar\HomeWork\Thread_\bin\Debug\net6.0\Thread_.pdb
+D:\Vazifalar\HomeWork\Thread_\obj\Debug\net6.0\Thread_.csproj.AssemblyReference.cache
+D:\Vazifalar\HomeWork\Thread_\obj\Debug\net6.0\Thread_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vazifalar\HomeWork\Thread_\obj\Debug\net6.0\Thread_.AssemblyInfoInputs.cache
+D:\Vazifalar\HomeWork\Thread_\obj\Debug\net6.0\Thread_.AssemblyInfo.cs
+D:\Vazifalar\HomeWork\Thread_\obj\Debug\net6.0\Thread_.csproj.CoreCompileInputs.cache
+D:\Vazifalar\HomeWork\Thread_\obj\Debug\net6.0\Thread_.dll
+D:\Vazifalar\HomeWork\Thread_\obj\Debug\net6.0\refint\Thread_.dll
+D:\Vazifalar\HomeWork\Thread_\obj\Debug\net6.0\Thread_.pdb
+D:\Vazifalar\HomeWork\Thread_\obj\Debug\net6.0\Thread_.genruntimeconfig.cache
+D:\Vazifalar\HomeWork\Thread_\obj\Debug\net6.0\ref\Thread_.dll

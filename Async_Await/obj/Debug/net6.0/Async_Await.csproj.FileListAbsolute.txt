@@ -1,0 +1,15 @@
+D:\Vazifalar\HomeWork\Async_Await\bin\Debug\net6.0\Async_Await.exe
+D:\Vazifalar\HomeWork\Async_Await\bin\Debug\net6.0\Async_Await.deps.json
+D:\Vazifalar\HomeWork\Async_Await\bin\Debug\net6.0\Async_Await.runtimeconfig.json
+D:\Vazifalar\HomeWork\Async_Await\bin\Debug\net6.0\Async_Await.dll
+D:\Vazifalar\HomeWork\Async_Await\bin\Debug\net6.0\Async_Await.pdb
+D:\Vazifalar\HomeWork\Async_Await\obj\Debug\net6.0\Async_Await.csproj.AssemblyReference.cache
+D:\Vazifalar\HomeWork\Async_Await\obj\Debug\net6.0\Async_Await.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vazifalar\HomeWork\Async_Await\obj\Debug\net6.0\Async_Await.AssemblyInfoInputs.cache
+D:\Vazifalar\HomeWork\Async_Await\obj\Debug\net6.0\Async_Await.AssemblyInfo.cs
+D:\Vazifalar\HomeWork\Async_Await\obj\Debug\net6.0\Async_Await.csproj.CoreCompileInputs.cache
+D:\Vazifalar\HomeWork\Async_Await\obj\Debug\net6.0\Async_Await.dll
+D:\Vazifalar\HomeWork\Async_Await\obj\Debug\net6.0\refint\Async_Await.dll
+D:\Vazifalar\HomeWork\Async_Await\obj\Debug\net6.0\Async_Await.pdb
+D:\Vazifalar\HomeWork\Async_Await\obj\Debug\net6.0\Async_Await.genruntimeconfig.cache
+D:\Vazifalar\HomeWork\Async_Await\obj\Debug\net6.0\ref\Async_Await.dll

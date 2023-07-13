@@ -16,7 +16,7 @@ IList<Car> cars = new List<Car>()
 {
     new Car(){Id=1,Marka="Chevrolet",Model="nexia 1",Color="qora"},
     new Car(){Id=2,Marka="Chevrolet",Model="matiz",Color="qizil"},
-    //new Car(){Id=3,Marka="Chevrolet",Model="spark",Color="sariq"},
+    new Car(){Id=3,Marka="Chevrolet",Model="spark",Color="sariq"},
     new Car(){Id=4,Marka="Chevrolet",Model="malibu",Color="oq"},
     new Car(){Id=5,Marka="Chevrolet",Model="nexia 2",Color="kul rang"},
     new Car(){Id=6,Marka="Chevrolet",Model="nexia 3",Color="pushti"},
@@ -30,6 +30,7 @@ IList<Car> cars = new List<Car>()
 // Take bu element olib beradi
 //var result =users.Take(4).ToList();
 //result.ForEach(x => Console.WriteLine(x.Age));
+
 
 
 // Distinct() methodi bu to'plamdagi elementdan hammasidan bittadan olib yangi list qilib qaytaradi
@@ -151,9 +152,22 @@ Console.WriteLine(result);
 //Console.WriteLine(result);
 
 
-//Average methodi bu moshinalar Id si bo'lsa Id larning o'rtachasini hisoblab qaytaradi
-var result = cars.Average(x => x.Id);
-Console.WriteLine(result);
+//Average methodi bu moshinalar Id si bo'lsa Id larning o'rtachasini yani o'rta arifmetigini hisoblab qaytaradi
+//var result = cars.Average(x => x.Id);
+//Console.WriteLine(result);
+
+
+
+
+
+// zip
+
+var zip = users.Zip(cars, (first, second) =>
+(first.Id >=3) + " " + second.Marka).ToList();
+foreach(var item in zip)
+{
+    Console.WriteLine(item);
+}
 
 
 
